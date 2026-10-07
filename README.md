@@ -26,9 +26,9 @@ Vision-Language-Action models · robotic manipulation · physics-grounded robot 
 
 ## Publications
 
-**[T.1]** E. Kallioras. (2026). *Teacher-Student Knowledge Distillation for Efficient Deployment of Vision-Language-Action Models in Robotic Manipulation.* Diploma Thesis, NTUA.
+**[C.1]** A. Filippakopoulos, E. Kallioras, N. Xiros, et al. (2026). *Segregate, Refine, Integrate: Interaction Topology as an Independent Design Axis for Multimodal Language Models.* Submitted to Interspeech 2026.
 
-**[S.1]** A. Filippakopoulos, E. Kallioras, N. Xiros, et al. (2026). *Segregate, Refine, Integrate: Interaction Topology as an Independent Design Axis for Multimodal Language Models.* Submitted to Interspeech 2026.
+**[T.1]** E. Kallioras. (2026). *Teacher-Student Knowledge Distillation for Efficient Deployment of Vision-Language-Action Models in Robotic Manipulation.* Diploma Thesis, NTUA.
 
 ## Talks
 
